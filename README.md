@@ -32,5 +32,5 @@ The aim is to search insights based on different factors, trends ,distributions,
 ![7](https://github.com/user-attachments/assets/cbb9dd5f-89db-4669-9282-61f3a3551f87)
 
  #### For Clone Use this
-[link]git clone https://github.com/username/EV_Exploratory_Data_Analysis.git
+[link]git clone https://github.com/iakbar99/EV_Exploratory_Data_Analysis.git
 
