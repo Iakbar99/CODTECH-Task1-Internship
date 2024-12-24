@@ -3,7 +3,7 @@ company: CODTECH IT SOLUTIONS <br>
 ID:CT08DS606 <br>
 Domain:Data Analytics <br>
 Duration:December2024 To January2025 <br>
-Mentor:
+Mentor:Muzammil Ahmed 
 
 ## Overview of the Project 
 ### Project: Exploratory Data Analysis (EDA) on EV_Cars Dateset
